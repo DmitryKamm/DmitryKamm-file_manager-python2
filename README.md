@@ -23,21 +23,12 @@
 
 
 6. Просмотр содержимого текстового файла;
-
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.010.png) 
+ 
 
 7. Удаление файлов по имени;
 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.011.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.012.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.013.png) 
-
 8. Копирование файлов из одной папки в другую;
-
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.014.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.015.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.016.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.017.png) 
+ 
 
 9. Перемещение файлов;
 
@@ -61,18 +52,7 @@
 
 1. Сделайте файловый менеджер многопользовательским. Добавьте возможность регистрации пользователей. При регистрации каждому пользователю создается своя домашняя папка, в пределах которой он может работать.
 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.024.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.025.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.026.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.027.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.028.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.029.png) 
 
 
 2. Придумайте и добавьте дополнительные функциональные возможности для файлового менеджера. Сделаем: Квотирование дискового пространства и отображение занятого оставшегося места.
-
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.030.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.031.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.032.png) 
-![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.033.png) 
 
